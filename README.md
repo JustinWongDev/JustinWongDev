@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustinWongDev // justinwongdevb.com
+- 👋 Hi, I’m @JustinWongDev // justinwongdev.com
 - 👀 I’m interested in gameplay programming, strategy/RPG games, calisthenics, improv comedy & axe-throwing
 - 📫 How to reach me: justincywong12@gmail.com
 
