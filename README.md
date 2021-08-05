@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinWongDev // justinwongdev.com
-- 👀 I’m interested in gameplay programming, strategy/RPG games, calisthenics, improv comedy & axe-throwing
+- 👀 I’m interested in gameplay programming, strategy/RPG games, calisthenics, axe-throwing & improv comedy 
 - 📫 How to reach me: justincywong12@gmail.com
 
 <!---
